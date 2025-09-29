@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: #fa6d0f;
+    text-align: center;
+}
+
+img {
+    height: 235px;
+    padding: 27px;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 70px;
+    color: white
+}
+
+h2 {
+    font-size: 50px;
+    color: white
+}
+
+p {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+a {
+    border: 7px solid white;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 53px;
+    font-size: 30px;
+}
+
+.one {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.planshet {
+    height: 350px;
+}
+
+.dost {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 175px;
+}

@@ -53,3 +53,17 @@ a {
     text-align: center;
     margin-top: 175px;
 }
+
+.left {
+    display: flex;
+    height: 310px;
+    font-size: 39px;
+}
+
+.ord {
+    margin-left: 350px;
+}
+
+.forord {
+    margin-left: 310px;
+}

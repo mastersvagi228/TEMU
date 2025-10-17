@@ -4,6 +4,11 @@ body {
     text-align: center;
 }
 
+.kabak {
+    border-top: 6px solid white;
+    border-bottom: 6px solid white;
+}
+
 img {
     height: 235px;
     padding: 27px;
@@ -72,7 +77,9 @@ a {
     display: flex;
     height: 100px;
     font-size: 35px;
+    margin: 0px;
     padding-top: 0px;
+    color: #fa6d0f
 }
 
 footer {
@@ -85,4 +92,24 @@ footer p {
     margin: 3px;
     padding: 20px;
     text-align: left;
+}
+
+.bord {
+    border: 3px solid white;
+    margin: 85px;
+    padding-bottom: 36px;
+    border-radius: 13px;
+    background-color: white;
+}
+
+.kyka {
+    border: 7px solid #fa6d0f;
+    background-color: #fa6d0f;
+}
+
+.bord2 {
+    border: 3px solid white;
+    margin: 30px;
+    border-radius: 13px;
+    background-color: white;
 }

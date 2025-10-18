@@ -22,13 +22,23 @@ h1 {
 
 h2 {
     font-size: 50px;
-    color: white
+    color: #fa6d0f;
+    background-color: white;
+    margin-left: 290px;
+    margin-right: 290px;
+    border-radius: 13px;
 }
 
 p {
     color: white;
     font-size: 50px;
     text-align: center;
+    margin: opx;
+}
+
+.small {
+    font-size: 30px;
+    color: #fa6d0f
 }
 
 a {
@@ -79,7 +89,7 @@ a {
     font-size: 35px;
     margin: 0px;
     padding-top: 0px;
-    color: #fa6d0f
+    color: #fa6d0f;
 }
 
 footer {
@@ -96,7 +106,7 @@ footer p {
 
 .bord {
     border: 3px solid white;
-    margin: 85px;
+    margin: 45px;
     padding-bottom: 36px;
     border-radius: 13px;
     background-color: white;
@@ -112,4 +122,13 @@ footer p {
     margin: 30px;
     border-radius: 13px;
     background-color: white;
+}
+
+.bord3 {
+    border: 3px solid white;
+    margin-right: 420px;
+    border-radius: 13px;
+    background-color: white;
+    margin-left: 420px;
+    padding-bottom: 30px;
 }
